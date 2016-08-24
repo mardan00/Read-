@@ -5,6 +5,7 @@
 《敏捷项目管理》| 马克·C·莱顿 | 日 | [查看](https://book.douban.com/subject/26803452/) | 7.25 
 《图解HTTP》| 上野宣 | 日 | [查看](https://book.douban.com/subject/25863515/) | 8.20 
 《只是为了好玩》 | 林纳斯·托瓦斯 | 美 | [查看](https://book.douban.com/subject/25930025/) |8.24
+《科比:黄金年代》| 张佳伟 | 中 |[查看](https://book.douban.com/subject/26771922/) | 8.25
 
 ## 已读
 
